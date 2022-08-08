@@ -1,0 +1,63 @@
+
+Body {
+	
+}
+#banner{
+	width: 100%;
+}
+
+.principal{
+	background: #FFF2F2
+}
+
+.titulo-principal{
+	padding-left: 20px;
+	text-align: center;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+
+P {
+	text-align: center;
+}
+
+#pastel {
+	font-size:20px
+
+}
+
+strong {
+	   color: IndianRed;
+}
+
+.itens{
+	font-style: italic;
+	font-size:29px
+}
+
+.doar{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+
+.imagemneve {
+	width: 25%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    margin-right: 20%;
+}
+
+.video {
+	width: 560px;
+	margin: 3em auto;
+}
+
+
